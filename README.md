@@ -1,1 +1,2 @@
 # llm-fine_tuning-gpt2_chinese_cluecorpussmall
+## 微调gpt2_chinese_cluecorpussmall使其能生成合适的古诗词
